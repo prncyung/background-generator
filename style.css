@@ -1,0 +1,9 @@
+.done{
+	color: green;
+	text-underline-property: dotted;
+}
+.stage{
+	background-image: linear-gradient(to right, red , yellow);
+	height:100px;
+	width:300px;
+}
